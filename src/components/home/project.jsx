@@ -19,6 +19,7 @@ const projects = [
       "A library management system with book search, authentication, and admin panel built using Next.js and Express.",
     tech: ["Next.js", "Express", "MongoDB", "Tailwind CSS"],
     github: "https://github.com/KAVaishnavi",
+    demo: "https://librarybook-lilac.vercel.app/",
     
   },
   {
@@ -35,7 +36,7 @@ const projects = [
       "Real-time weather forecasting app using OpenWeather API and a clean UI built with Next.js.",
     tech: ["Next.js", "Tailwind CSS", "OpenWeather API"],
     github: "https://github.com/KAVaishnavi",
-   
+   demo: "https://weather-appp-seven.vercel.app/",
   },
   {
     title: "Gallery",
@@ -43,6 +44,7 @@ const projects = [
       "A responsive photo gallery built with Next.js and Cloudinary to manage and showcase images.",
     tech: ["Next.js", "Tailwind CSS"],
     github: "https://github.com/KAVaishnavi",
+    demo:"https://gallery-theta-dusky.vercel.app/",
     
   },
   {
