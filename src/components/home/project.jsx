@@ -46,6 +46,15 @@ const projects = [
     
   },
   {
+    title: "Task- managment",
+    description:
+      "A task management app to organize and prioritize tasks effectively.",
+    tech: ["Next.js", "Express", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/KAVaishnavi",
+    demo: "https://task-management-fawn-five.vercel.app/",
+    
+  },
+  {
     title: "Smart Walking Stick with GPS",
     description:
       "An innovative smart walking stick equipped with GPS and obstacle detection for visually impaired users.",
@@ -67,6 +76,7 @@ const projects = [
     github: "https://github.com/KAVaishnavi",
     
   },
+
 ];
 
 const Projects = () => {
